@@ -2,7 +2,7 @@
 
 [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
 
-A boilerplate project for getting you started with the [React Redux Tutorial for Beginners](https://www.robinwieruch.de/react-redux-tutorial-for-beginners).
+Starter kit for getting you started with the [React Redux Tutorial for Beginners](https://www.robinwieruch.de/react-redux-tutorial-for-beginners).
 
 ## Installation
 
