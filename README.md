@@ -1,6 +1,6 @@
 # react-redux-tutorial-starter-kit
 
-[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/)
+[![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/rwieruch/react-redux-tutorial-starter-kit.svg)](https://greenkeeper.io/)
 
 Starter kit for getting you started with the [React Redux Tutorial for Beginners](https://www.robinwieruch.de/react-redux-tutorial-for-beginners).
 
